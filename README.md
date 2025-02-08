@@ -14,7 +14,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/YashInTech/profile-snap
    ```
 
 2. Navigate to the project directory:
@@ -57,7 +57,7 @@ https://randomuser.me/api/?page=1&results=1&seed=abc
 ## Design Considerations
 - The layout closely follows the provided wireframe.
 - Proper spacing, font hierarchy, and responsive styling were implemented using Tailwind CSS.
-- The profile card features a rounded profile image, user details, and a clean design.
+- The profile card features a profile image, user details, and a clean design.
 
 ## Screenshots
 ![Web Screenshot](public/Screenshot.png)
