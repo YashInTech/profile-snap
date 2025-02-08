@@ -1,4 +1,4 @@
-# Profile Display Website
+# Profile-Snap : A Profile Display Website
 
 ## Project Overview
 This React application fetches user data from the RandomUser API and displays it in a neatly styled profile card. The project is designed as part of an assignment and adheres to the provided wireframe design.
