@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd display-profile
+   cd profile-snap
    ```
 
 3. Install dependencies:
@@ -39,9 +39,7 @@ The app will be available at `http://localhost:3000`.
 src/
 ├── App.js       # Main component fetching and displaying user data
 ├── index.js     # Entry point of the application
-├── index.css    # Tailwind CSS configuration
-└── assets/      # Static assets (if any)
-```
+└── index.css.   # Tailwind CSS configuration
 
 ## Technologies Used
 - **React**: Front-end library for building user interfaces.
